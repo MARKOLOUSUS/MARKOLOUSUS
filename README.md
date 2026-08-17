@@ -7,7 +7,6 @@
 * 🌱 Learning **HTML, CSS, JavaScript, Python, React (Vite), Linux Ubuntu**
 * 🔧 Interested in building **web apps and real-world systems**
 * 🧠 Curious about how things work (especially tech & systems)
-* 🎯 Goal: Become a skilled **Front-End Developer/Cloud Engineer/Cyber Security**
 
 ## 🛠️ Tech Stack
 * 💻 Languages: JavaScript, Python (basic)
