@@ -34,6 +34,5 @@
 * 🤔 Introvert but curious about everything
 * 🌿 I'm an INFJ (Introversion, Intuition, Feeling, and Judging)
 * 🎮 Plays games (HSR, ZZZ, Roblox, etc.)
-* 🧠 Likes thinking deeply about life and tech
 
 ⭐ *“Still learning, still building, one step at a time.” *
