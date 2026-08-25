@@ -1,6 +1,5 @@
-🎓 First Year BSIT Student
+🎓 First Year BSIT Student at BATANGAS STATE UNIVERSITY (BSU)
 💻 Aspiring Front-End Developer/Cloud Engineer/Cyber Security (I don't know which one to pick)
-📍 Philippines
 
 ## 🚀 About Me
 * 🎓 Currently studying **Bachelor of Science in Information Technology (BSIT)**
