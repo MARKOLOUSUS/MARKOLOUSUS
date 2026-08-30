@@ -1,5 +1,3 @@
-# Hi, I'm Mark! 
-
 🎓 First Year BSIT Student at BATANGAS STATE UNIVERSITY (BSU)
 💻 Aspiring Front-End Developer/Cloud Engineer/Cyber Security (I don't know which one to pick)
 
