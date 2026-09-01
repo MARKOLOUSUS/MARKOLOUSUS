@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./galaxy.gif" alt="Galaxy Animation" width="700">
+</p>
+
 🎓 First Year BSIT Student at BATANGAS STATE UNIVERSITY (BSU)
 💻 Aspiring Front-End Developer/Cloud Engineer/Cyber Security (I don't know which one to pick)
 
