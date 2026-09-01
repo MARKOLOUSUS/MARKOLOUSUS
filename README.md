@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 * 🎓 Currently studying **Bachelor of Science in Information Technology (BSIT)**
-* 🌱 Learning **HTML, CSS, JavaScript, Python, React (Vite), Linux Ubuntu**
+* 🌱 Learning **HTML, CSS, JavaScript, Python, C++, React (Vite), Linux Ubuntu, SQL**
 * 🔧 Interested in building **web apps and real-world systems**
 * 🧠 Curious about how things work (especially tech & systems)
 
